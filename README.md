@@ -1,5 +1,9 @@
 # My Country President
 
+[Read Blog Post](url coming soon)
+
+<hr />
+
 #### Instructions:
 
 1. Fork this repo
