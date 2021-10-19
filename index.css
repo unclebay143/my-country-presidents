@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;0,500;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  color: #ccc;
+}
+
+/* header */
+header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  line-height: 2;
+}
+
+header a,
+footer a {
+  text-decoration: none;
+  color: dodgerblue;
+}
+
+.container {
+  padding: 20px 16px;
+  border: 2px solid #ccc;
+  width: 50%;
+  margin: 0.8rem;
+}
+
+.instruction {
+  text-align: center;
+  padding: 50px 0;
+  font-weight: 200;
+  font-size: 18px;
+}
+
+/* countries */
+
+.countries a {
+  color: #ccc;
+}
+
+.countries a:hover {
+  font-size: 15.8px;
+}
+
+.countries li {
+  margin-bottom: 1rem;
+}
+
+.new-project {
+  font-size: 12px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.new-project a {
+  color: dodgerblue;
+}
+
+footer {
+  font-size: 12px;
+}
+
+@media (max-width: 900px) {
+  .container {
+    width: 80%;
+  }
+}
