@@ -7,7 +7,7 @@
 5. Add the image of the president in the portrait folder
 
 
-[Visit here for more information (while this readme is been improved](https://github.com/unclebay143/nigeria-presidents)
+[Visit here for more information (while this readme is been improved)](https://github.com/unclebay143/nigeria-presidents)
 
 
 [BUY THIS PROJECT A COFFEE](https://www.buymeacoffee.com/unclebigbay)
