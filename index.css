@@ -3,7 +3,7 @@
 * {
   margin: 0;
   box-sizing: border-box;
-  font-family: "Poppins";
+  font-family: "Poppins", "san-serif";
 }
 
 body {
@@ -71,6 +71,11 @@ footer a {
 
 footer {
   font-size: 12px;
+  text-align: center;
+}
+
+footer p {
+  margin-bottom: 0.5rem;
 }
 
 @media (max-width: 900px) {
