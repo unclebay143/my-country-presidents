@@ -1,0 +1,54 @@
+{
+    "presidents": [
+        {
+            "no": "1",
+            "name": "unclebigbay (A.S.A)",
+            "imgsrc": "unclebigbay.jpg",
+            "from": 2021,
+            "to": 2021,
+            "reason": "",
+            "born": 1999,
+            "party": "Politcal Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "A frontend engineer from Nigeria.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "unclebigbay",
+                    "github_url": "https://github.com/unclebay143",
+                    "extra_url": "unclebigbay.com"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "unclebigbay (A.S.A)",
+            "imgsrc": "unclebigbay.jpg",
+            "from": 1960,
+            "to": 2000,
+            "reason": "",
+            "born": 1999,
+            "party": "Politcal Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "A frontend engineer from Nigeria.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "unclebigbay",
+                    "github_url": "https://github.com/unclebay143",
+                    "extra_url": "unclebigbay.com"
+                }
+            ]
+        }
+    ]
+}
