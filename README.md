@@ -15,7 +15,7 @@
 
 <hr />
 
-#### Link to repo:
+#### Link to sample repo:
 - <a href="https://github.com/unclebay143/nigeria-presidents">Visit here for more information <br> <img src="https://user-images.githubusercontent.com/58919619/135591298-34af9d47-95a4-49c3-83db-d159a7be12cf.png" width="100" ></a>
 
 <br>
