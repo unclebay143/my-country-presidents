@@ -1,6 +1,6 @@
 # My Country President 🌏
 
-[Read Blog Post](url coming soon)
+[Read Blog Post](https://unclebigbay.com/introducing-open-source-project-for-everyone-as-long-as-your-country-has-a-president)
 
 <hr />
 
