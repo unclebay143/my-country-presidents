@@ -52,7 +52,9 @@ nav {
             rgba(0, 255, 0, 0.2),
             rgba(0, 255, 0, 0.2)
         ),
-        url("./../portraits/Nigerian-Presidents.jpg");
+        url("./../portraits/2.png");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .message {

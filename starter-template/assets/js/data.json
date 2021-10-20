@@ -2,8 +2,8 @@
     "presidents": [
         {
             "no": "1",
-            "name": "unclebigbay (A.S.A)",
-            "imgsrc": "unclebigbay.jpg",
+            "name": "name goes here",
+            "imgsrc": "placeholder.png",
             "from": 2021,
             "to": 2021,
             "reason": "",
@@ -27,8 +27,8 @@
         },
         {
             "no": "2",
-            "name": "unclebigbay (A.S.A)",
-            "imgsrc": "unclebigbay.jpg",
+            "name": "name goes here",
+            "imgsrc": "placeholder.png",
             "from": 1960,
             "to": 2000,
             "reason": "",
