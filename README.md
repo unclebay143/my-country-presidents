@@ -12,6 +12,7 @@
 4. Ensure to open only the country you're working on in your code editor i.e **VSCode** 🙏
 5. Check the _data.json_ to see sample of how to add a president profile 👨‍🏫
 6. Add the image of the president in the portrait folder 👤
+7. Add your name to the `CONTRIBUTORS.md` file ➕
 
 <hr />
 
