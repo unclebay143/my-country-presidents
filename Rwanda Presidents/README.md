@@ -1,8 +1,8 @@
-# Nigeria Presidents
+# Rwanda Presidents
 
-Profile list of Nigeria past to present Presidents who ruled from 1960 till date
+Profile list of Rwanda's past to present Presidents who ruled from 1961 till date
 
-Visit Site: [🔗 take me there](https://nigeria-presidents.netlify.app/)
+Visit Site: [🔗 take me there]()
 
 ## Technologies:
 
@@ -18,18 +18,8 @@ Visit Site: [🔗 take me there](https://nigeria-presidents.netlify.app/)
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/58919619/135591298-34af9d47-95a4-49c3-83db-d159a7be12cf.png)
-_figure 1.0_
 
 <hr />
-
-![image](https://user-images.githubusercontent.com/58919619/135591991-38b519ae-4ca8-41d0-b8c4-ca46eedbfa37.png)
-_figure 1.1_
-
-<hr />
-
-![new look](https://user-images.githubusercontent.com/53145644/137027280-40f03f8d-35c1-4a02-b9d1-3067eb393155.PNG)
-_figure 1.2_
 
 ## How to contribute
 
@@ -39,7 +29,7 @@ _figure 1.2_
 
 3. 👆 Click on [🔍 List of Nigeria Presidents](https://www.google.com/search?q=list+of+nigerian+presidents+from+1960+till+date) from the [site](https://nigeria-presidents.netlify.app/) home page  
 
-4. 👀 Search for any Nigeria president that you are interested to contribute their profile  
+4. 👀 Search for any Rwanda's president that you are interested to contribute their profile  
 
 5. ⬇ Download any of their clean image into the portrait folder in the project   
 
@@ -77,4 +67,6 @@ _figure 1.3 image of the embedded pull request template_
 11. 😎 Enjoy your coffee ☕ while the maintainer reviews your pull request  
 
 P.S: You will get a notification when your PR is merged or needs a fix.
+
+
 
