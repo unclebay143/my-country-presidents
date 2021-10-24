@@ -27,7 +27,7 @@ Visit Site: [🔗 take me there](https://musab1258.github.io/my-country-presiden
 
 2. ⬇ Clone the project on your PC  
 
-3. 👆 Click on [🔍 List of Nigeria Presidents](https://www.google.com/search?q=list+of+rwandan+presidents+from+1961+till+date) from the [site](https://musab1258.github.io/my-country-presidents/Rwanda-Presidents/index.html) home page  
+3. 👆 Click on [🔍 List of Rwanda Presidents](https://www.google.com/search?q=list+of+rwandan+presidents+from+1961+till+date) from the [site](https://musab1258.github.io/my-country-presidents/Rwanda-Presidents/index.html) home page  
 
 4. 👀 Search for any Rwanda's president that you are interested to contribute their profile  
 
