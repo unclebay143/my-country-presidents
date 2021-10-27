@@ -1,0 +1,79 @@
+{
+    "presidents": [
+        {
+            "no": "1",
+            "name": "Dominique Mbonyumutwa",
+            "imgsrc": "Dominique-Mbonyumutwa.jpg",
+            "from": 1961,
+            "to": 1961,
+            "reason": "",
+            "born": 1921,
+            "party": "MDR-Parmehutu",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Dominique Mbonyumutwa (January 1921 – 26 July 1986) was a Rwandan politician who served as the interim first President of Rwanda for a period of nine months in 1961, during a transitional phase between the overthrow of the Rwandan monarchy in the Rwandan Revolution and the country's independence.",
+                    "moreinfo": "Following an election in October of that year, he was succeeded by Grégoire Kayibanda who became the first elected president of the country following independence."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Musab1258",
+                    "github_url": "https://github.com/Musab1258",
+                    "extra_url": "https://musab1258.github.io/Personal-Portfolio-Webpage/"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "Grégoire Kayibanda",
+            "imgsrc": "Grégoire-Kayibanda.jpg",
+            "from": 1961,
+            "to": 1973,
+            "reason": "",
+            "born": 1924,
+            "party": "Parmehutu",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Grégoire Kayibanda (May 1, 1924 – December 15, 1976) was a Rwandan politician and revolutionary who was the first elected President of Rwanda from 1962 to 1973. An ethnic Hutu, he was a pioneer of the Rwandan Revolution and led Rwanda's struggle for independence from Belgium, replacing the Tutsi monarchy with a republican form of government.",
+                    "moreinfo": "Rwanda became independent from Belgium in 1962, with Kayibanda serving as the country's first president, establishing a pro-Hutu policy and a de facto one-party system governed by his party, Parmehutu. He was overthrown in a coup d'état in 1973 by his defense minister, Juvénal Habyarimana, and died three years later."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Musab1258",
+                    "github_url": "https://github.com/Musab1258",
+                    "extra_url": "https://musab1258.github.io/Personal-Portfolio-Webpage/"
+                }
+            ]
+        },
+        {
+            "no": "3",
+            "name": "name goes here",
+            "imgsrc": "placeholder.png",
+            "from": 1960,
+            "to": 2000,
+            "reason": "",
+            "born": 1999,
+            "party": "Politcal Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "A frontend engineer from Nigeria.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "unclebigbay",
+                    "github_url": "https://github.com/unclebay143",
+                    "extra_url": "unclebigbay.com"
+                }
+            ]
+        }
+    ]
+}

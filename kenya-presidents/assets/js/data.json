@@ -1,0 +1,66 @@
+{
+    "presidents": [{
+            "no": "1",
+            "name": "Mzee Jomo Kenyatta",
+            "imgsrc": "../portraits/Jomo-Kenyatta.jpg",
+            "from": 1963,
+            "to": 1978,
+            "reason": "Died",
+            "born": 1894,
+            "party": "KANU",
+            "diedInOffice": "Yes",
+            "extraInformation": [{
+                "bio": "A frontend engineer from Nigeria.",
+                "moreinfo": ""
+            }],
+            "contributors": [{
+                "no": "1",
+                "name": "John Muriu",
+                "github_url": "https://github.com/john-muriu",
+                "extra_url": "johnmuriu.netlify.app"
+            }]
+        },
+        {
+            "no": "2",
+            "name": "Daniel Arap Moi",
+            "imgsrc": "../portraits/Daniel.jpg",
+            "from": 1978,
+            "to": 2002,
+            "reason": "retired",
+            "born": 1999,
+            "party": "Politcal Party",
+            "diedInOffice": false,
+            "extraInformation": [{
+                "bio": "Daniel Toroitich arap Moi was a Kenyan statesman and politician who was the second and longest-serving President of Kenya from 1978 to 2002. He previously served as the third Vice President of Kenya from 1967 to 1978, and succeeded President Jomo Kenyatta following the latter's death",
+                "moreinfo": ""
+            }],
+            "contributors": [{
+                "no": "1",
+                "name": "John Muriu",
+                "github_url": "https://github.com/john-muriu",
+                "extra_url": "johnmuriu.netlify.app"
+            }]
+        },
+        {
+            "no": "2",
+            "name": "Mwai Kibaki",
+            "imgsrc": "../portraits/Mwai_Kibaki-2a.jpg",
+            "from": 2002,
+            "to": 2013,
+            "reason": "retired",
+            "born": 1999,
+            "party": "PNU",
+            "diedInOffice": false,
+            "extraInformation": [{
+                "bio": "Mwai Kibaki, C.G.H. is a Kenyan politician who was the third President of Kenya, serving from December 2002 until April 2013. He had previously served as the fourth Vice-President of Kenya for ten years from 1978 to 1988 under President Daniel arap Moi.",
+                "moreinfo": ""
+            }],
+            "contributors": [{
+                "no": "1",
+                "name": "John Muriu",
+                "github_url": "https://github.com/john-muriu",
+                "extra_url": "johnmuriu.netlify.app"
+            }]
+        }
+    ]
+}
