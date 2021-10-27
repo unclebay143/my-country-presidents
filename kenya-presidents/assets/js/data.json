@@ -2,10 +2,10 @@
     "presidents": [{
             "no": "1",
             "name": "Mzee Jomo Kenyatta",
-            "imgsrc": "/kenya-presidents/assets/portraits/Jomo-Kenyatta.jpg",
+            "imgsrc": "../portraits/Jomo-Kenyatta.jpg",
             "from": 1963,
             "to": 1978,
-            "reason": "",
+            "reason": "Died",
             "born": 1894,
             "party": "KANU",
             "diedInOffice": "Yes",
@@ -22,16 +22,16 @@
         },
         {
             "no": "2",
-            "name": "name goes here",
-            "imgsrc": "placeholder.png",
-            "from": 1960,
-            "to": 2000,
-            "reason": "",
+            "name": "Daniel Arap Moi",
+            "imgsrc": "../portraits/Daniel.jpg",
+            "from": 1978,
+            "to": 2002,
+            "reason": "retired",
             "born": 1999,
             "party": "Politcal Party",
             "diedInOffice": false,
             "extraInformation": [{
-                "bio": "A frontend engineer from Nigeria.",
+                "bio": "Daniel Toroitich arap Moi was a Kenyan statesman and politician who was the second and longest-serving President of Kenya from 1978 to 2002. He previously served as the third Vice President of Kenya from 1967 to 1978, and succeeded President Jomo Kenyatta following the latter's death",
                 "moreinfo": ""
             }],
             "contributors": [{
