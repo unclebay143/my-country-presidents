@@ -1,0 +1,87 @@
+{
+    "presidents": [{
+            "no": "1",
+            "name": "Mzee Jomo Kenyatta",
+            "imgsrc": "../portraits/Jomo-Kenyatta.jpg",
+            "from": 1963,
+            "to": 1978,
+            "reason": "Died",
+            "born": 1894,
+            "party": "KANU",
+            "diedInOffice": "Yes",
+            "extraInformation": [{
+                "bio": "Jomo Kenyatta was a Kenyan anti-colonial activist and politician who governed Kenya  first President.He is considered the founding father of the Kenyan Nation. Imprisoned under the British, he emerged as leader of the independence struggle. He created a one party system dominated by members of his own tribe ",
+                "moreinfo": ""
+            }],
+            "contributors": [{
+                "no": "1",
+                "name": "John Muriu",
+                "github_url": "https://github.com/john-muriu",
+                "extra_url": "johnmuriu.netlify.app"
+            }]
+        },
+        {
+            "no": "2",
+            "name": "Daniel Arap Moi",
+            "imgsrc": "../portraits/Daniel.jpg",
+            "from": 1978,
+            "to": 2002,
+            "reason": "retired",
+            "born": 1999,
+            "party": "Politcal Party",
+            "diedInOffice": false,
+            "extraInformation": [{
+                "bio": "Daniel Toroitich arap Moi was a Kenyan statesman and politician who was the second and longest-serving President of Kenya from 1978 to 2002. He previously served as the third Vice President of Kenya from 1967 to 1978, and succeeded President Jomo Kenyatta following the latter's death",
+                "moreinfo": ""
+            }],
+            "contributors": [{
+                "no": "1",
+                "name": "John Muriu",
+                "github_url": "https://github.com/john-muriu",
+                "extra_url": "johnmuriu.netlify.app"
+            }]
+        },
+        {
+            "no": "3",
+            "name": "Mwai Kibaki",
+            "imgsrc": "../portraits/Mwai_Kibaki-2a.jpg",
+            "from": 2002,
+            "to": 2013,
+            "reason": "retired",
+            "born": 1999,
+            "party": "PNU",
+            "diedInOffice": false,
+            "extraInformation": [{
+                "bio": "Mwai Kibaki, C.G.H. is a Kenyan politician who was the third President of Kenya, serving from December 2002 until April 2013. He had previously served as the fourth Vice-President of Kenya for ten years from 1978 to 1988 under President Daniel arap Moi.",
+                "moreinfo": ""
+            }],
+            "contributors": [{
+                "no": "1",
+                "name": "John Muriu",
+                "github_url": "https://github.com/john-muriu",
+                "extra_url": "johnmuriu.netlify.app"
+            }]
+        },
+        {
+            "no": "4",
+            "name": "Uhuru Muigai Kenyatta",
+            "imgsrc": "../portraits/Uhuru-Kenyatta.jpg",
+            "from": 2013,
+            "to": 2022,
+            "reason": "",
+            "born": 1663,
+            "party": "Jubilee Party",
+            "diedInOffice": false,
+            "extraInformation": [{
+                "bio": "Uhuru Muigai Kenyatta is the fourth and the current President of Kenya, in office since 9 April 2013. He previously served in the Government of Kenya as Minister for Local Government from 2001 to 2002, and he was leader of the official opposition from 2002 to 2007. Hon. Kenyatta was appointed Deputy Prime Minister and Minister for Trade in April 2008. In the same year, he was transferred to the Treasury as Deputy Prime Minister and Minister for Finance, as part of the Grand Coalition Cabinet, where he served up to January 2012. He served as the Member of Parliament for Gatundu South Constituency beginning in 2002. President Kenyatta was also the Chairman of Kenya African National Union (KANU), which was a part of the Party of National Unity (PNU). President Uhuru Kenyatta is the first son of founding President Jomo Kenyatta. Born at the dawn of Kenya's Independence, he carried in his name, Uhuru – which means freedom. President Uhuru Kenyatta attended St Mary's School in Nairobi and then Amherst College, Massachusetts, United States, where he graduated with a bachelor's degree in politics and economics. The President has had a long and outstanding career in politics, having served in various capacities in previous administrations heading dockets.",
+                "moreinfo": ""
+            }],
+            "contributors": [{
+                "no": "1",
+                "name": "John Muriu",
+                "github_url": "https://github.com/john-muriu",
+                "extra_url": "johnmuriu.netlify.app"
+            }]
+        }
+    ]
+}
