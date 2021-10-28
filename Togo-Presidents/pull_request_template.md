@@ -1,10 +1,10 @@
 **What does this PR do?**
 
-Added the profile of President Juvénal Habyarimana of Rwanda
+Added the profile of the first president of Togo
 
 **Description of Task to be completed?**
 
-I provided details about the name, picture, tenure period, date of birth, bio, etc.
+Informations about, and bio of President Sylvanus Épiphanio Olympio added
 
 **How should this be manually tested?**
 

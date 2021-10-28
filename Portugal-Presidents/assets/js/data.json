@@ -1,0 +1,54 @@
+{
+    "presidents": [
+        {
+            "no": "1",
+            "name": "Marcelo Rebelo de Sousa",
+            "imgsrc": "president-marcelo.png",
+            "from": 2016,
+            "to": 2021,
+            "reason": "",
+            "born": 1948,
+            "party": "Social Democratic Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He is a Portuguese politician and academic. He is the 20th president of Portugal.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Kehinde-Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "kenny-onifade.netlify.app"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "Aníbal Cavaco Silva",
+            "imgsrc": "anibal.png",
+            "from": 2006,
+            "to": 2016,
+            "reason": "",
+            "born": 1939,
+            "party": "Social Democratic Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Previous Prime Minister of Portugal, and the 19th President of Portugal.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Kehinde-Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "kenny-onifade.netlify.app"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "presidents": [
+        {
+            "no": "1",
+            "name": "Sylvanus Olympio",
+            "imgsrc": "Sylvanus-Olympio.jpg",
+            "from": 1960,
+            "to": 1963,
+            "reason": "",
+            "born": 1902,
+            "party": "CUT",
+            "diedInOffice": true,
+            "extraInformation": [
+                {
+                    "bio": "Sylvanus Épiphanio Olympio (Sylvanus Épiphanio Olympio) was a Togolese politician who served as prime minister, and then president, of Togo from 1958 until his assassination in 1963. He came from the important Olympio family, which included his uncle Octaviano Olympio, one of the richest people in Togo in the early 1900s.",
+                    "moreinfo": "After graduating from the London School of Economics, Sylvanus Épiphanio Olympio worked for Unilever and became the general manager of the African operations of that company. After World War II, Olympio became prominent in efforts for independence of Togo and his party won the 1958 election, making him the prime minister of the country. His power was further cemented when Togo achieved independence and he won the 1961 election, making him the first president of Togo. He was assassinated during the 1963 Togolese coup d'état."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Kehinde-Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "https://kenny-onifade.netlify.app/"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "name goes here",
+            "imgsrc": "placeholder.png",
+            "from": 1960,
+            "to": 2000,
+            "reason": "",
+            "born": 1999,
+            "party": "Politcal Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "A frontend engineer from Nigeria.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "unclebigbay",
+                    "github_url": "https://github.com/unclebay143",
+                    "extra_url": "unclebigbay.com"
+                }
+            ]
+        }
+    ]
+}
