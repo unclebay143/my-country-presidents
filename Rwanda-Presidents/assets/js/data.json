@@ -77,6 +77,56 @@
         },
         {
             "no": "4",
+            "name": "Théodore Sindikubwabo",
+            "imgsrc": "Théodore-Sindikubwabo.jpeg",
+            "from": 1994,
+            "to": 1994,
+            "reason": "",
+            "born": 1928,
+            "party": "Parmehutu",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Théodore Sindikubwabo was born in Zivu, Shyanda village in the town of Butare formerly called Astrida in Rwanda-Urundi Territory, and currently the southern province of Rwanda. His parents Zacharrie SEMUTWA and Judithe NYIRAMANDWA were both from Tutsi ethnic group. Sindikubwabo was educated as a physician and was Minister of Health in the administration of President Kayibanda. Following the takeover by Juvénal Habyarimana, Sindikubwabo became a practising pediatrician in Kigali Central Hospital. He later returned to politics as a deputy in parliament.",
+                    "moreinfo": "Immediately following Habyarimana's assassination on April 6, 1994, Sindikubwabo was installed as interim President by the Crisis Committee controlled by Colonel Théoneste Bagosora, and he was the head of state during the genocide. Sindikubwabo is widely believed to have been a puppet of the group of military officers who held the real power. On 19 April 1994, he made a now-infamous speech at the ceremony appointing a new Préfet (Governor) of Butare that was broadcast on national radio, in which he insulted those who were not 'working', a euphemism for killing Tutsis, and told them to 'get out of the way and let us work'. On 29 April, he returned to Butare and told the populace that he was there to supervise the killing of Tutsi. On 18 May, whilst on a visit to Kibuye Prefecture, he congratulated the people on how well they had done their 'work'."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Musab1258",
+                    "github_url": "https://github.com/Musab1258",
+                    "extra_url": "https://musab1258.github.io/Personal-Portfolio-Webpage/"
+                }
+            ]
+        },
+        {
+            "no": "5",
+            "name": "Pasteur Bizimungu",
+            "imgsrc": "Pasteur-Bizimungu.jpeg",
+            "from": 1994,
+            "to": 2000,
+            "reason": "",
+            "born": 1950,
+            "party": "FPR",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Pasteur Bizimungu (born April 1950) is a Rwandan politician who served as the third President of Rwanda, holding office from 19 July 1994 until 23 March 2000.",
+                    "moreinfo": "A Rwandan, Bizimingu was born in the Gisenyi prefecture of Rwanda. According to the academic Filip Reyntjens, Bizimungu had ties to radical anti-Tutsi groups as a student in the 1970s, but later joined the RPF. He served as President of Rwanda after the 1994 genocide."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Musab1258",
+                    "github_url": "https://github.com/Musab1258",
+                    "extra_url": "https://musab1258.github.io/Personal-Portfolio-Webpage/"
+                }
+            ]
+        },   
+        {
+            "no": "6",
             "name": "name goes here",
             "imgsrc": "placeholder.png",
             "from": 1960,
