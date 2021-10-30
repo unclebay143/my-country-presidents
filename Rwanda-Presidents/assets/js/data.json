@@ -75,7 +75,6 @@
                 }
             ]
         },
-
         {
             "no": "4",
             "name": "Théodore Sindikubwabo",
@@ -102,7 +101,7 @@
             ]
         },     
         {
-            "no": "4",
+            "no": "5",
             "name": "name goes here",
             "imgsrc": "placeholder.png",
             "from": 1960,
