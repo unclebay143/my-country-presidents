@@ -10,19 +10,21 @@
 
 2. ⬇ Clone the project on your PC   
 
-3. ✌ Duplicate the starter template for a new country project   
+3.   Create a new branch.     git checkout -b <your_branch_name>
 
-4. 🙏 Ensure to open only the country you're working on in your code editor i.e **VSCode**   
+4. ✌ Duplicate the starter template for a new country project 
 
-5. 👨‍ Check the _data.json_ to see sample of how to add a president profile   
+5. 🙏 Ensure to open only the country you're working on in your code editor i.e **VSCode**   
 
-6. 👤 Add the image of the president in the portrait folder   
+6. 👨‍ Check the _data.json_ to see sample of how to add a president profile   
 
-7. ➕ Add your name to the `CONTRIBUTORS.md` file   
+7. 👤 Add the image of the president in the portrait folder   
+
+8. ➕ Add your name to the `CONTRIBUTORS.md` file   
 
   PS: A pull request template has been added to this repository. When you do a pull request, describe what the pull request will do under What does this PR do , and the tasks   you have done beneath Description of task to be completed. When you are done, click the pull request button as shown in the image below.
 
-8. 😎 Enjoy your coffee ☕ while the maintainer reviews your pull request
+9. 😎 Enjoy your coffee ☕ while the maintainer reviews your pull request
 
 P.S: You will get a notification when your PR is merged or needs a fix.
 

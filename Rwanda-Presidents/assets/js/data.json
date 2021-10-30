@@ -52,6 +52,31 @@
         },
         {
             "no": "3",
+            "name": "Juvénal Habyarimana",
+            "imgsrc": "Juvénal_Habyarimana.jpg",
+            "from": 1973,
+            "to": 1994,
+            "reason": "",
+            "born": 1937,
+            "party": "Military/MRND",
+            "diedInOffice": true,
+            "extraInformation": [
+                {
+                    "bio": "Juvénal Habyarimana(8 March 1937 – 6 April 1994) was a Rwandan politician and military officer who served as the second president of Rwanda, from 1973 until 1994. He was nicknamed 'Kinani', a Kinyarwanda word meaning 'invincible'.",
+                    "moreinfo": "An ethnic Hutu, Habyarimana served several security positions including minister of defense under Rwanda's first president, Grégoire Kayibanda. After overthrowing Kayibanda in a coup in 1973, he became the country's new president and eventually continued his predecessor's pro-Hutu policies."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "2",
+                    "name": "Kehinde-Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "https://kenny-onifade.netlify.app/"
+                }
+            ]
+        },
+        {
+            "no": "4",
             "name": "name goes here",
             "imgsrc": "placeholder.png",
             "from": 1960,
