@@ -1,0 +1,54 @@
+{
+    "presidents": [
+        {
+            "no": "1",
+            "name": "George Washington",
+            "imgsrc": "George_Washington.jpg",
+            "from": 1789,
+            "to": 1797,
+            "reason": "",
+            "born": 1732,
+            "party": "Unaffiliated",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "George Washington (February 22, 1732 – December 14, 1799) was an American political leader, military general, statesman, and Founding Father, who served as the first president of the United States from 1789 to 1797.",
+                    "moreinfo": "Appointed by the Continental Congress as commander of the Continental Army, Washington led the Patriot forces to victory in the American Revolutionary War, and presided at the Constitutional Convention of 1787, which established the Constitution of the United States and a federal government. Washington has been called the 'Father of the Nation'"
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Kehinde Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "kenny-onifade.netlify.app"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "name goes here",
+            "imgsrc": "placeholder.png",
+            "from": 1960,
+            "to": 2000,
+            "reason": "",
+            "born": 1999,
+            "party": "Politcal Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "A frontend engineer from Nigeria.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "unclebigbay",
+                    "github_url": "https://github.com/unclebay143",
+                    "extra_url": "unclebigbay.com"
+                }
+            ]
+        }
+    ]
+}
