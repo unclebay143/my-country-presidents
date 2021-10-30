@@ -99,9 +99,34 @@
                     "extra_url": "https://musab1258.github.io/Personal-Portfolio-Webpage/"
                 }
             ]
-        },     
+        }
         {
             "no": "5",
+            "name": "Pasteur Bizimungu",
+            "imgsrc": "Pasteur-Bizimungu.jpeg",
+            "from": 1994,
+            "to": 2000,
+            "reason": "",
+            "born": 1950,
+            "party": "FPR",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Pasteur Bizimungu (born April 1950) is a Rwandan politician who served as the third President of Rwanda, holding office from 19 July 1994 until 23 March 2000.",
+                    "moreinfo": "A Rwandan, Bizimingu was born in the Gisenyi prefecture of Rwanda. According to the academic Filip Reyntjens, Bizimungu had ties to radical anti-Tutsi groups as a student in the 1970s, but later joined the RPF. He served as President of Rwanda after the 1994 genocide."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Musab1258",
+                    "github_url": "https://github.com/Musab1258",
+                    "extra_url": "https://musab1258.github.io/Personal-Portfolio-Webpage/"
+                }
+            ]
+        },   
+        {
+            "no": "6",
             "name": "name goes here",
             "imgsrc": "placeholder.png",
             "from": 1960,
