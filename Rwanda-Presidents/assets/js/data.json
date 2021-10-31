@@ -124,9 +124,34 @@
                     "extra_url": "https://musab1258.github.io/Personal-Portfolio-Webpage/"
                 }
             ]
-        },   
+        },
         {
             "no": "6",
+            "name": "Paul Kagame",
+            "imgsrc": "Paul-Kagame.jpg",
+            "from": 2000,
+            "to": "tilldate",
+            "reason": "",
+            "born": 1957,
+            "party": "FPR",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": " Paul Kagame ( born 23 October 1957) is a Rwandan politician and former military leader. He is the sixth and current president of Rwanda, having taken office in 2000. Kagame previously commanded the Rwandan Patriotic Front (RPF), a Uganda-based rebel force which invaded Rwanda in 1990 and was one of the parties of the conflict during the Rwandan Civil War and the armed force which ended the Rwandan genocide. He was considered Rwanda's de facto leader when he served as Vice President and Minister of Defence under President Pasteur Bizimungu from 1994 to 2000.",
+                    "moreinfo": "Kagame was born to a Tutsi family in southern Rwanda. When he was two years old, the Rwandan Revolution ended centuries of Tutsi political dominance; his family fled to Uganda, where he spent the rest of his childhood. In the 1980s, Kagame fought in Yoweri Museveni's rebel army, becoming a senior Ugandan army officer after Museveni's military victories carried him to the Ugandan presidency. Kagame joined the RPF, taking control of the group when previous leader Fred Rwigyema died on the second day of the 1990 invasion. By 1993, the RPF controlled significant territory in Rwanda and a ceasefire was negotiated. The assassination of Rwandan President Juvénal Habyarimana set off the genocide, in which Hutu extremists killed an estimated 500,000 to 800,000 Tutsi and moderate Hutu. Kagame resumed the civil war, and ended the genocide with a military victory."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Musab1258",
+                    "github_url": "https://github.com/Musab1258",
+                    "extra_url": "https://musab1258.github.io/Personal-Portfolio-Webpage/"
+                }
+            ]
+        },
+        {
+            "no": "7",
             "name": "name goes here",
             "imgsrc": "placeholder.png",
             "from": 1960,
