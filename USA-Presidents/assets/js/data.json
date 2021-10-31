@@ -27,6 +27,31 @@
         },
         {
             "no": "2",
+            "name": "John Adams",
+            "imgsrc": "john_adams.jpg",
+            "from": 1797,
+            "to": 1801,
+            "reason": "",
+            "born": 1735,
+            "party": "Federalist",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "John Adams Jr. (October 30, 1735 – July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801.",
+                    "moreinfo": "Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain, and he served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams and Thomas Jefferson."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Kehinde Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "kenny-onifade.netlify.app"
+                }
+            ]
+        },
+        {
+            "no": "3",
             "name": "name goes here",
             "imgsrc": "placeholder.png",
             "from": 1960,
