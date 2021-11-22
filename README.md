@@ -21,10 +21,12 @@
 7. 👤 Add the image of the president in the portrait folder   
 
 8. ➕ Add your name to the `CONTRIBUTORS.md` file   
+   
+9. ➕ Update the the `index.html file.` This file contains the list of all added countries.. PS: this step should only be done if you intend to add a new country. 
 
   PS: A pull request template has been added to this repository. When you do a pull request, describe what the pull request will do under What does this PR do , and the tasks   you have done beneath Description of task to be completed. When you are done, click the pull request button as shown in the image below.
 
-9. 😎 Enjoy your coffee ☕ while the maintainer reviews your pull request
+10. 😎 Enjoy your coffee ☕ while the maintainer reviews your pull request
 
 P.S: You will get a notification when your PR is merged or needs a fix.
 
