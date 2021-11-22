@@ -1,0 +1,130 @@
+{
+    "presidents": [
+        {
+            "no": "1",
+            "name": "Kwame Nkrumah",
+            "imgsrc": "Kwame_Nkrumah.jpg",
+            "from": 1960,
+            "to": 1964,
+            "reason": "Deposed in a coup d'état",
+            "born": 1999,
+            "party": "Convention People's Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957.",
+                    "moreinfo": "An influential advocate of Pan-Africanism, Nkrumah was a founding member of the Organization of African Unity and winner of the Lenin Peace Prize from the Soviet Union in 1962. He lived in exile in Conakry, Guinea, as the guest of President Ahmed Sékou Touré, who made him honorary co-president of the country."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "John Adams",
+            "imgsrc": "john_adams.jpg",
+            "from": 1797,
+            "to": 1801,
+            "reason": "",
+            "born": 1735,
+            "party": "Federalist",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "John Adams Jr. (October 30, 1735 – July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801.",
+                    "moreinfo": "Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain, and he served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams and Thomas Jefferson."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Kehinde Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "kenny-onifade.netlify.app"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "John Adams",
+            "imgsrc": "john_adams.jpg",
+            "from": 1797,
+            "to": 1801,
+            "reason": "",
+            "born": 1735,
+            "party": "Federalist",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "John Adams Jr. (October 30, 1735 – July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801.",
+                    "moreinfo": "Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain, and he served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams and Thomas Jefferson."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Kehinde Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "kenny-onifade.netlify.app"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "John Adams",
+            "imgsrc": "john_adams.jpg",
+            "from": 1797,
+            "to": 1801,
+            "reason": "",
+            "born": 1735,
+            "party": "Federalist",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "John Adams Jr. (October 30, 1735 – July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801.",
+                    "moreinfo": "Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain, and he served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams and Thomas Jefferson."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "Kehinde Onifade",
+                    "github_url": "https://github.com/kendoriddy",
+                    "extra_url": "kenny-onifade.netlify.app"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "name goes here",
+            "imgsrc": "placeholder.png",
+            "from": 1960,
+            "to": 2000,
+            "reason": "",
+            "born": 1999,
+            "party": "Politcal Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "A frontend engineer from Nigeria.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "unclebigbay",
+                    "github_url": "https://github.com/unclebay143",
+                    "extra_url": "unclebigbay.com"
+                }
+            ]
+        }
+        
+    ]
+}
