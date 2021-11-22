@@ -6,13 +6,13 @@
             "imgsrc": "Kwame_Nkrumah.jpg",
             "from": 1960,
             "to": 1964,
-            "reason": "Deposed in a coup d'état",
-            "born": 1999,
+            "reason": "coup d'état",
+            "born": 1909,
             "party": "Convention People's Party",
             "diedInOffice": false,
             "extraInformation": [
                 {
-                    "bio": "He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957.",
+                    "bio": " He was and the only president of the First Republic of Ghana (First Republic: 1960–1966). He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957.",
                     "moreinfo": "An influential advocate of Pan-Africanism, Nkrumah was a founding member of the Organization of African Unity and winner of the Lenin Peace Prize from the Soviet Union in 1962. He lived in exile in Conakry, Guinea, as the guest of President Ahmed Sékou Touré, who made him honorary co-president of the country."
                 }
             ],
@@ -27,76 +27,351 @@
         },
         {
             "no": "2",
-            "name": "John Adams",
-            "imgsrc": "john_adams.jpg",
-            "from": 1797,
-            "to": 1801,
-            "reason": "",
-            "born": 1735,
-            "party": "Federalist",
+            "name": "Joseph Ankrah",
+            "imgsrc": "Joseph-Ankrah.jfif",
+            "from": 1966,
+            "to": 1969,
+            "reason": "He was forced to resign as Chairman of the NLC and Head of State over a bribery scandal involving a Nigerian businessman",
+            "born": 19155,
+            "party": "Military",
             "diedInOffice": false,
             "extraInformation": [
                 {
-                    "bio": "John Adams Jr. (October 30, 1735 – July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801.",
-                    "moreinfo": "Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain, and he served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams and Thomas Jefferson."
+                    "bio": "He was one of the presidents of the Second Republic of Ghana (Second Republic: 1966–1972). General of the army of Ghana who served as the 2nd President of Ghana from 1966 to 1969 in the position of Chairman of the National Liberation Council",
+                    "moreinfo": "Ankrah also served as Chairperson of the Organisation of African Unity from 24 February 1966 to 5 November 1966."
                 }
             ],
             "contributors": [
                 {
-                    "no": "1",
-                    "name": "Kehinde Onifade",
-                    "github_url": "https://github.com/kendoriddy",
-                    "extra_url": "kenny-onifade.netlify.app"
+                    "no": "2",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
                 }
             ]
         },
         {
-            "no": "2",
-            "name": "John Adams",
-            "imgsrc": "john_adams.jpg",
-            "from": 1797,
-            "to": 1801,
+            "no": "3",
+            "name": "Akwasi Afrifa",
+            "imgsrc": "AkwasiAfrifa.png",
+            "from": 1969,
+            "to": 1970,
             "reason": "",
-            "born": 1735,
-            "party": "Federalist",
+            "born": 1936,
+            "party": "Military",
             "diedInOffice": false,
             "extraInformation": [
                 {
-                    "bio": "John Adams Jr. (October 30, 1735 – July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801.",
-                    "moreinfo": "Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain, and he served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams and Thomas Jefferson."
+                    "bio": "He was one of the presidents of the Second Republic of Ghana (Second Republic: 1966–1972). Lieutenant General Akwasi Amankwaa Afrifa was a Ghanaian soldier, farmer, traditional ruler and politician.",
+                    "moreinfo": "He was elected a member of Parliament in 1979, but he was executed before he could take his seat. He was executed together with two other former heads of state, General Kutu Acheampong and General Fred Akuffo, and five other generals (Utuka, Felli, Boakye, Robert Kotei and Amedume), in June 1979."
                 }
             ],
             "contributors": [
                 {
-                    "no": "1",
-                    "name": "Kehinde Onifade",
-                    "github_url": "https://github.com/kendoriddy",
-                    "extra_url": "kenny-onifade.netlify.app"
+                    "no": "3",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
                 }
             ]
         },
         {
-            "no": "2",
-            "name": "John Adams",
-            "imgsrc": "john_adams.jpg",
-            "from": 1797,
-            "to": 1801,
-            "reason": "",
-            "born": 1735,
-            "party": "Federalist",
+            "no": "4",
+            "name": "Nii Amaa Ollennu",
+            "imgsrc": "RNAOllennu.png",
+            "from": 1970,
+            "to": 1970,
+            "reason": "He took over from the previous military leader, Lt. Gen. Afrifa and handed over on 31 August 1970 to Edward Akufo-Addo ",
+            "born": 1906,
+            "party": "Independent",
             "diedInOffice": false,
             "extraInformation": [
                 {
-                    "bio": "John Adams Jr. (October 30, 1735 – July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801.",
-                    "moreinfo": "Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain, and he served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams and Thomas Jefferson."
+                    "bio": "He was one of the presidents of the Second Republic of Ghana (Second Republic: 1966–1972). Raphael Nii Amaa Ollennu JSC FGA was a jurist and judge who became a Justice of the Supreme Court of Ghana from 1962 to 1966, the acting President of Ghana during the Second Republic from 7 August 1970 to 31 August 1970 and the Speaker of the Parliament of Ghana from 1969 to 1972.",
+                    "moreinfo": "He was the president for 24 days (7 August to 31 August)"
                 }
             ],
             "contributors": [
                 {
-                    "no": "1",
-                    "name": "Kehinde Onifade",
-                    "github_url": "https://github.com/kendoriddy",
-                    "extra_url": "kenny-onifade.netlify.app"
+                    "no": "4",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "5",
+            "name": "Edward Akufo-Addo",
+            "imgsrc": "Edward Akufo-Addo.jpg",
+            "from": 1970,
+            "to": 1972,
+            "reason": "Coup d'etat",
+            "born": 1906,
+            "party": "Independent",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Second Republic of Ghana (Second Republic: 1966–1972). Edward Akufo-Addo JSC was a Ghanaian politician and lawyer. He became the former Chief Justice (1966–70) before he became President",
+                    "moreinfo": "he was one of the Big Six (the others being Ebenezer Ako-Adjei, Joseph Boakye Danquah, Kwame Nkrumah, Emmanuel Obetsebi-Lamptey and William Ofori Atta) his son Nana Addo Akufo-Addo later became one of Ghana head of state."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "5",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "6",
+            "name": "Ignatius Kutu Acheampong",
+            "imgsrc": "Ignatius_Kutu_Acheampong.jpg",
+            "from": 1972,
+            "to": 1978,
+            "reason": "Coup d'etat",
+            "born": 1931,
+            "party": "Miltary",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Second Republic of Ghana (Second Republic: 1966–1972). Soldier and former military Head of state of Ghana. He was later executed by firing squad. ",
+                    "moreinfo": "Acheampong was court martialed and executed along with General Edward Kwaku Utuka by firing squad on 16 June 1979, ten days prior to the execution of two other former heads of state, Akwasi Afrifa and Fred Akuffo, and senior military officers Joy Amedume, George Boakye, Roger Joseph Felli and Robert Kotei, following the 4 June military uprising that brought Flight Lieutenant Jerry Rawlings "
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "6",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "7",
+            "name": "Fred Akuffo",
+            "imgsrc": "Akuffo.jpg",
+            "from": 1978,
+            "to": 1979,
+            "reason": "Coup d'etat",
+            "born": 1937,
+            "party": "Miltary",
+            "diedInOffice": true,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Second Republic of Ghana (Second Republic: 1966–1972). Lieutenant General Frederick William Kwasi Akuffo was a soldier and politician. He was a Chief of Defence Staff of the Ghana Armed Forces and a Head of state and chairman of the ruling Supreme Military Council in Ghana",
+                    "moreinfo": "He came to power in a military coup, was overthrown in another military coup and executed three weeks later on 26 June 1979 at the Teshie Military Range, Ghana."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "7",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "8",
+            "name": "Jerry Rawlings",
+            "imgsrc": "JJRawling.jfif",
+            "from": 1797,
+            "to": 1979,
+            "reason": "Handed power over to a civilian government",
+            "born": 1947,
+            "party": "Miltary",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Third Republic of Ghana (Third Republic: 1979–1981). Jerry John Rawlings was a Ghanaian President, a military officer and politician who led the country from 1981 to 2001 and also for a brief period in 1979. He led a military junta until 1992, and then served two terms as the democratically elected President of Ghana.",
+                    "moreinfo": "Rawlings came to power in Ghana as a flight lieutenant of the Ghana Air Force following a coup d'état. In 1992, Rawlings resigned from the military, founded the National Democratic Congress (NDC), and became the first President of the Fourth Republic "
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "8",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "9",
+            "name": "Hilla Limann",
+            "imgsrc": "Hilla_Limann.jpg",
+            "from": 1979,
+            "to": 1981,
+            "reason": "Coup d'etat",
+            "born": 1734,
+            "party": "People's National Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Third Republic of Ghana (Third Republic: 1979–1981). Hilla Limann, GCMG was a Ghanaian diplomat and politician who served the President of Ghana.",
+                    "moreinfo": "He served as a diplomat in Lome, Togo and Geneva, Switzerland. The Hilla Limann Foundation is a charity that was launched on the commemoration of the 40th anniversary of his presidency in September 2019. Its aims are to end the abuse of human rights through education, championing the cause of human development for the poor and vulnerable, and promote the awareness of human rights."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "9",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "10",
+            "name": "Jerry Rawlings",
+            "imgsrc": "Jerry Rawlingsimages.jfif",
+            "from": 1981,
+            "to": 1993,
+            "reason": "",
+            "born": 1947,
+            "party": "Miltary",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Third Republic of Ghana (Third Republic: 1979–1981). Jerry John Rawlings was a Ghanaian President, a military officer and politician who led the country from 1981 to 2001 and also for a brief period in 1979. He led a military junta until 1992. Believing the Limann regime to be unable to resolve Ghana's neocolonial economic dependency, Rawlings led a second coup against Limann and indicted the entire political class on 31 December 1981. he will later served two terms as the democratically elected President of Ghana.",
+                    "moreinfo": "After his 11 years miltary rule, Rawlings took office on 7 January 1993, the same day that the new constitution came into effect, and the government became known as the Fourth Republic of Ghana."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "10",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "11",
+            "name": "Jerry Rawlings",
+            "imgsrc": "Jerry Rawlings.jpg",
+            "from": 1992,
+            "to": 2001,
+            "reason": "Served two term. His tenure was over",
+            "born": 1947,
+            "party": "National Democratic Congress",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was First cilivan presidents of the Fourth Republic of Ghana (Fourth Republic: Since 1993). Jerry John Rawlings was a Ghanaian President, a military officer and politician who led the country from 1981 to 2001 and also for a brief period in 1979. He led a military junta until 1992. Believing the Limann regime to be unable to resolve Ghana's neocolonial economic dependency, Rawlings led a second coup against Limann and indicted the entire political class on 31 December 1981. he will later served two terms as the democratically elected President of Ghana.",
+                    "moreinfo": "After his 11 years miltary rule, Rawlings took office on 7 January 1993, the same day that the new constitution came into effect, and the government became known as the Fourth Republic of Ghana. Rawlings served as the African Union envoy to Somalia."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "11",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "12",
+            "name": "John Kufuor",
+            "imgsrc": "John Kufuor.JPG",
+            "from": 2001,
+            "to": 2009,
+            "reason": "Served two term. His tenure was over",
+            "born": 1938,
+            "party": "National Patriotic Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Fourth Republic of Ghana (Fourth Republic: Since 1993). John Kofi Agyekum Kufuor GCB is a Ghanaian politician who served as the President of Ghana. He was also Chairperson of the African Union.",
+                    "moreinfo": "He is popularly known as the Gentle Giant.  Having served two terms in power, he retired from politics in 2008"
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "12",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "13",
+            "name": "John Atta Mills",
+            "imgsrc": "John Atta Millss.jpg",
+            "from": 2009,
+            "to": 2012,
+            "reason": "Died in office from complications of a massive hemorrhagic stroke resulting from brain aneurysm",
+            "born": 1944,
+            "party": "National Democratic Congress",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Fourth Republic of Ghana (Fourth Republic: Since 1993). John Evans Fiifi Atta Mills was a Ghanaian politician and legal scholar who served as President of Ghana from 2009 until his death in 2012.",
+                    "moreinfo": "He was the first Ghanaian head of state to die in office. Even during his political career, he was called by the nickname The Prof. His political supporters also called him Asomdweehene meaning 'King of Peace' in the Akan language."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "13",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "14",
+            "name": "John Mahama",
+            "imgsrc": "john-mahama.png",
+            "from": 2012,
+            "to": 2017,
+            "reason": "Served a term. His tenure was over",
+            "born": 1958,
+            "party": "National Democratic Congress",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Fourth Republic of Ghana (Fourth Republic: Since 1993). John Dramani Mahama is a Ghanaian politician and previously served as Vice President of Ghana. He took office as president on 24 July 2012 following the death of his predecessor, John Atta Mills. Mahama is a communication expert, historian, and writer.",
+                    "moreinfo": "Mahama is the first vice president to take over following the death of his predecessor. He is also the first head of state of Ghana to have been born after Ghana's independence. Mahama received the 2016 African Political Leader of the Year Award"
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "14",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "15",
+            "name": "Nana Akufo-Addo",
+            "imgsrc": "Nana Akufo-Addo.jpg",
+            "from": 2016,
+            "to": "Currently serving",
+            "reason": "",
+            "born": 1944,
+            "party": "National Patriotic Party",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "He was one of the presidents of the Fourth Republic of Ghana (Fourth Republic: Since 1993). Nana Addo Dankwa Akufo-Addo is a Ghanaian politician. He first ran for president in 2008 and again in 2012, both times as the candidate of the New Patriotic Party (NPP). He lost on both occasions to National Democratic Congress' candidates: John Evans Atta Mills in 2008 and John Dramani Mahama in 2012.",
+                    "moreinfo": "Nana Akufo-Addo is the son of former president, Edward Akufo-Addo. He previously served as Attorney General from 2001 to 2003 and as Minister for Foreign Affairs from 2003 to 2007 under the Kufuor-led administration. He is currently serving his second term as the chairman of the Economic Community of West African States (ECOWAS)."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "15",
+                    "name": "Benny",
+                    "github_url": "https://github.com/Bennykillua",
+                    "extra_url": "https://benny.hashnode.dev/"
                 }
             ]
         },
@@ -118,7 +393,7 @@
             ],
             "contributors": [
                 {
-                    "no": "1",
+                    "no": "2",
                     "name": "unclebigbay",
                     "github_url": "https://github.com/unclebay143",
                     "extra_url": "unclebigbay.com"
