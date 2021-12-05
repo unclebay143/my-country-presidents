@@ -1,8 +1,8 @@
-# Nigeria Presidents
+# Ghana Presidents
 
-Profile list of Nigeria past to present Presidents who ruled from 1960 till date
+Profile list of Ghana past to present Presidents who ruled from 1960 till date
 
-Visit Site: [🔗 take me there](https://nigeria-presidents.netlify.app/)
+Visit Site: [🔗 take me there](https://mycountrypresident.netlify.app/ghana-presidents/)
 
 ## Technologies:
 
@@ -37,7 +37,7 @@ _figure 1.2_
 
 2. ⬇ Clone the project on your PC  
 
-3. 👆 Click on [🔍 List of Nigeria Presidents](https://www.google.com/search?q=list+of+nigerian+presidents+from+1960+till+date) from the [site](https://nigeria-presidents.netlify.app/) home page  
+3. 👆 Click on [🔍 List of Ghana Presidents](https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Ghana) from the [site](https://mycountrypresident.netlify.app/ghana-presidents/) home page  
 
 4. 👀 Search for any Nigeria president that you are interested to contribute their profile  
 
