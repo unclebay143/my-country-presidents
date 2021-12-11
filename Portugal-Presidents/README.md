@@ -2,7 +2,7 @@
 
 Profile list of Nigeria past to present Presidents who ruled from 1960 till date
 
-Visit Site: [🔗 take me there](https://nigeria-presidents.netlify.app/)
+Visit Site: [🔗 take me there](https://mycountrypresident.netlify.app/portugal-presidents/)
 
 ## Technologies:
 
