@@ -1,0 +1,279 @@
+{
+    "presidents": [
+        {
+            "no": "1",
+            "name": "Edward Muteesa",
+            "imgsrc": "Edward-Muteesa.png",
+            "from": 1963,
+            "to": 1966,
+            "reason": "deposed",
+            "born": 1924,
+            "party": "Kabaka Yekka",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Sir Edward Muteesa was the first post-independence president of Uganda born on 19 November 1924, the fifth son on Sir Daudi Chwa II, Kabaka of Buganda, who reigned between 1897 and 1939. His mother was Lady Irene Drusilla Namaganda.",
+                    "moreinfo": "At the age of five, his father took him in one of the best schools at the time, Kings College Buddo. At the age of fifteen, upon the death of his father on 22 November 1939, he was proclaimed Kabaka(King), and was installed outside the Lubiri at Mengo on 26 November 1939. Thereafter he reigned under a Council of Regents until he came of age and assumed full powers. In 1962 Uganda became independent from Britain under the leadership of Milton Obote. Under the country's new constitution, the Kingdom of Buganda became a semi-autonomous part of a new Ugandan federation. Obote became the Prime Minister, while Muteesa became the first ever President of Uganda. Unfortunately conflict was the order of the day between Uganda People's Congress(UPC) and Kabaka Yekka(KY). It was therefore no surprise when it collapsed chaotically in September 1964. Members of K.Y in the National Assembly were crossing to UPC, lured by the chance of office. Muteesa died of suspected alcohol poisoning in his London flat in 1969. Identified by the British police as suicide, the death has been viewed as assassination by agents of the Obote regime. Muteesa's body was returned to Uganda in 1971 after the overthrow of Obote and given a state funeral at Kasubi Nabulagala. "
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "2",
+            "name": "Milton Obote",
+            "imgsrc": "Milton-Obote.png",
+            "from": 1966,
+            "to": 1971,
+            "reason": "deposed",
+            "born": 1925,
+            "party": "Uganda People's Congress",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Apollo Milton Obote was a Ugandan political leader who led Uganda to independence in 1962 from British colonial administration. Following the nation's independence, he served as prime minister of Uganda from 1962 to 1966 and the second president of Uganda from 1966 to 1971, then again from 1980 to 1985. He was overthrown in a coup d'état by Idi Amin in 1971, but was re-elected in 1980 a year after Amin's 1979 overthrow. His second period of rule ended after a long and bloody conflict known as the Ugandan Bush War, during which he was overthrown a second time by another coup d'état in 1985, prompting him to live the rest of his life in exile.",
+                    "moreinfo": "Milton Obote was born at Akokoro village in Apac district in northern Uganda. He was the third born of nine children of a tribal chief of the Oyima clan Lango ethnic group. He began his education in 1940 at the Protestant Missionary School in Lira, and later attended Gulu Junior Secondary School, Busoga College and eventually university at Makerere University. On 19 December 1969 there was an assassination attempt against Obote. As he was leaving the UPC annual delegates' conference at Lugogo Indoor Stadium in Kampala, Mohamed Sebaduka fired one shot at the president. The bullet struck Obote in the face, breaking two of his teeth and passing through his cheek. Sebaduka's pistol jammed, and another assassin, Yowana Wamala, threw a grenade at the president, but it failed to explode. Sebaduka was shot by Obote's bodyguards, but both conspirators escaped in the pandemonium following the attempt. Investigators later arrested them and several members of the Democratic Party—the leading opposition party—accusing former prime minister Benedicto Kiwanuka of orchestrating the plot. In the aftermath of the attempt, all opposition political parties were banned, leaving Obote as an effectively absolute ruler. A state of emergency was in force for much of the time and many political opponents were jailed without trial for life. Obote's regime terrorised, harassed, and tortured people. His secret police, the General Service Unit, led by Obote's cousin, was responsible for many cruelties. In January 1971, Obote was overthrown by the army while on a visit to Singapore to attend a Commonwealth conference, and Amin became President. In the two years before the coup Obote's relations with the West had become strained. Some have suggested that Western Governments were at least aware of, and may have aided, the coup. The Israeli government certainly played an active role in planning and implementing the coup. They operated mechanized equipment and maintained a high profile in and around the capital including manning roadblocks. According to one source, 'they were to be seen everywhere'. Obote fled to Tanzania. The fall of Obote's regime was welcomed and celebrated by many Ugandans."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "3",
+            "name": "Idi Amin",
+            "imgsrc": "Idi-Amin.png",
+            "from": 1971,
+            "to": 1979,
+            "reason": "deposed",
+            "born": 1925,
+            "party": "",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Idi Amin Dada, was a Ugandan military officer who served as the third president of Uganda from 1971 to 1979. He is considered one of the most brutal despots in world history. Idi Amin was born in Koboko to a Kakwa father and Lugbara mother. In 1946, he joined the King's African Rifles (KAR) of the British Colonial Army as a cook. He rose to the rank of lieutenant, taking part in British actions against Somali rebels in the Shifta War and then the Mau Mau rebels in Kenya. Uganda gained independence from the United Kingdom in 1962, and Amin remained in the armed forces, rising to the position of major and being appointed commander of the Uganda Army in 1965. He became aware that Ugandan President Milton Obote was planning to arrest him for misappropriating army funds, so he launched a military coup in 1971 and declared himself president.",
+                    "moreinfo": "During his years in power, Amin shifted from being a pro-Western ruler enjoying considerable support from Israel to being backed by Libya's Muammar Gaddafi, Zaire's Mobutu Sese Seko, the Soviet Union, and East Germany. In 1975, Amin became the chairman of the Organisation of African Unity (OAU), a Pan-Africanist group designed to promote solidarity among African states. Uganda was a member of the United Nations Commission on Human Rights from 1977 to 1979. The UK broke diplomatic relations with Uganda in 1977, and Amin declared that he had defeated the British and added 'CBE' to his title for 'Conqueror of the British Empire'. As Amin's rule progressed into the late 1970s, there was increased unrest against his persecution of certain ethnic groups and political dissidents, along with Uganda's very poor international standing due to Amin's support for the terrorist hijackers in Operation Entebbe. He then attempted to annex Tanzania's Kagera Region in 1978, so Tanzanian president Julius Nyerere had his troops invade Uganda; they captured Kampala on 11 April 1979 and ousted Amin from power. Amin went into exile, first in Libya, then Iraq, and finally in Saudi Arabia, where he lived until his death on 16 August 2003. Amin's rule was characterised by rampant human rights abuses, including political repression, ethnic persecution and extrajudicial killings, as well as nepotism, corruption, and gross economic mismanagement. International observers and human rights groups estimate that between 100,000 and 500,000 people were killed under his regime."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "4",
+            "name": "Yusuf Lule",
+            "imgsrc": "Yusuf-Lule.png",
+            "from": 1979,
+            "to": 1979,
+            "reason": "deposed",
+            "born": 1912,
+            "party": "Independent",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Yusuf Kironde Lule was a Ugandan professor and civil servant who served as the fourth president of Uganda between 13 April and 20 June 1979. Yusuf Lule was born on 10 April 1912 in Kampala. He was educated at King's College Budo (1929–34), Makerere University College, Kampala (1934–36), Fort Hare University at Alice, South Africa (1936–39) and the University of Edinburgh. He was initially a Muslim but later converted to Christianity while at King's College Budo.",
+                    "moreinfo": "In 1947 Lule married Hannah Namuli Wamala at Kings College Budo's church, where he was a teacher and she was head girl. In 1959 the Democratic Party (DP) nominated Lule as a candidate to become Kattikiro (Prime Minister) of the subnational kingdom of Buganda. Many aristocratic figures in the kingdom distrusted Lule because of his Muslim origins, and Michael Kintu ultimately won the election. Upon Uganda's independence in 1962, he became chairman of the Public Service Commission. Lule served as the principal of Makerere University College from 1964 to 1970, and was assistant secretary-general of the Association of African Universities, in Accra, Ghana, between 1973 and 1978. Lule served as a minister in the pre-independence British colonial government and later as an assistant secretary-general of the Commonwealth Secretariat. He went into exile after Idi Amin came to power."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "5",
+            "name": "Godfrey Binaisa",
+            "imgsrc": "Godfrey-Binaisa.png",
+            "from": 1979,
+            "to": 1980,
+            "reason": "deposed",
+            "born": 1920,
+            "party": "Uganda People's Congress",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Godfrey Lukongwa Binaisa was a Ugandan lawyer who was Attorney General of Uganda from 1962 to 1968 and later served as the fifth president of Uganda from June 1979 to May 1980. At his death he was Uganda's only surviving former president.",
+                    "moreinfo": "Born in Kampala, Binaisa was initially a lawyer. He was educated at King's College Budo and Makerere College. He then earned a LLB in law from King's College London in 1955 and was called to the Bar at Lincoln's Inn in 1956. He was appointed a Queen's counsel (QC) and had a private law practice in Kampala. Binaisa was a member of the political parties Uganda National Congress and United Congress Party during the 1950s. He later joined Uganda People's Congress which in 1962 formed the first post-independence government of Uganda. He was appointed the Attorney General in 1962, a position in which he served until 1968, when he resigned over disagreements with President Milton Obote concerning constitutional matters, particularly the presidential powers of detention. In 1969 Binaisa went into private legal practice, and after Idi Amin took power in 1971, he went into exile first to the United Kingdom where in London he was employed by the London office Graham and James, an international maritime law firm. Following that he came to the United States, where he served as a 'paralegal' at the main office of Graham and James in San Francisco. Following the overthrow of Idi Amin in 1979, Binaisa returned to Uganda. After Idi Amin, Yusuf Lule served as the interim president for 68 days. On 20 June 1979, Binaisa was appointed President of Uganda by the National Consultative Commission, which was then the supreme governing body of the Uganda National Liberation Front (UNLF), a coalition of former Ugandan exiles who had helped remove Idi Amin. When Binaisa removed the army Chief of Staff, Brigadier Oyite Ojok, he was himself removed from office on 12 May 1980 by the Military Commission, a powerful organ of the UNLF headed by Paulo Muwanga, and whose deputy was Yoweri Museveni (then leader of Uganda Patriotic Movement and the current president of Uganda (1986-to date)). After his presidency ended he returned to London for a time and then ultimately practised law in Mount Vernon, New York. Throughout the early 1980s and 1990s, Binaisa lived in New York practicing law and later returned to Uganda, where he led a quiet life in retirement. He was the only former president of Uganda being looked after by the state under provisions of the Constitution of Uganda. Binaisa died in his sleep on 5 August 2010."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "6",
+            "name": "Paulo Muwanga",
+            "imgsrc": "Paulo-Muwanga.png",
+            "from": 1980,
+            "to": 1980,
+            "reason": "resigned",
+            "born": 1924,
+            "party": "Uganda People's Congress",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Paulo Muwanga was a Ugandan politician who served briefly as de facto president, and later as prime minister, of Uganda. Muwanga was born in Uganda. He joined the East African Posts and Telecommunications Administration (1943–50) before entering politics in 1950. He served as a member of Parliament from 1962 to 1964, before becoming ambassador to Egypt (1964–70) and France (1970–72). He was then in exile in England from 1972 to 1978, before returning to fight in the Uganda–Tanzania War (1978–9). He served briefly as minister of internal affairs, first under Yusuf Lule and then under Godfrey Binaisa. Binaisa attempted to have Muwanga demoted to an ambassador in February 1980, but Muwanga appealed directly to the National Consultative Commission.",
+                    "moreinfo": "He was reappointed, this time as minister of labour, the same month, and held that position until May 1980. On 12 May 1980, the army overthrew Binaisa and installed a six-man Military Commission headed by Muwanga. The commission was the de facto president of Uganda for a few days until the establishment of the Presidential Commission of Uganda. That commission, with Muwanga as chairman, held the powers of the president of Uganda between 22 May and 15 December 1980."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "7",
+            "name": "Presidential Commission",
+            "imgsrc": "Presidential-Commission.png",
+            "from": 1980,
+            "to": 1980,
+            "reason": "",
+            "born": "_____",
+            "party": "",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "The Presidential Commission of Uganda held the office of President of Uganda between 22 May and 15 December 1980. The Presidential Commission ruled Uganda until the December 1980 general elections. The elections were won by Milton Obote's Uganda Peoples Congress, however, the results were disputed, leading Museveni to launch a guerrilla rebellion, which subsequently led him to gain the presidency in 1986.",
+                    "moreinfo": ""
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "8",
+            "name": "Milton Obote",
+            "imgsrc": "Milton-Obote.png",
+            "from": 1980,
+            "to": 1985,
+            "reason": "deposed",
+            "born": 1925,
+            "party": "Uganda People's Congress",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "In 1979, Idi Amin was ousted by Tanzanian forces aided by Ugandan exiles. By 1980, Uganda was governed by an interim Presidential Commission. At the time of the 1980 elections, the chairman of the commission was a close associate of Obote, Paulo Muwanga. Muwanga had briefly been the de facto President of Uganda from 12–20 May 1980, as one of three presidents who served for short periods of time between Amin's ousting and the setting up of the Presidential Commission. The other two presidents were Yusuf Lule and Godfrey Binaisa. The elections in 1980 were won by Obote's Uganda People's Congress (UPC) party. However, the UPC's opposition believed that the elections were rigged, which led to a guerrilla war by Yoweri Museveni's National Resistance Army (NRA) and several other military groups. Obote held the additional title of Minister of Finance.",
+                    "moreinfo": "In 1983, the Obote government launched Operation Bonanza, a military expedition that claimed tens of thousands of lives and displaced a significant portion of the population. The brunt of the blame for this massacre was placed on the people of northern Uganda for supporting the action of the Prime Minister which increased the existing regional tensions in the country. It has been estimated that approximately 100,000 to 500,000 people died as a result of fighting between Obote's Uganda National Liberation Army (UNLA) and the guerrillas. On 27 July 1985, Obote was deposed again. As in 1971, he was overthrown by his own army commanders in a military coup d'état; this time the commanders were Brigadier Bazilio Olara-Okello and General Tito Okello. After his second removal from power, Obote fled to Kenya and later to Zambia. For some years, it was rumoured that he would return to Ugandan politics. In August 2005, however, he announced his intention to step down as leader of the UPC. In September 2005, it was reported that Obote would return to Uganda before the end of 2005. On 10 October 2005, Obote died of kidney failure in a hospital in Johannesburg, South Africa."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "9",
+            "name": "General Bazilio Olara Okello",
+            "imgsrc": "Olara-Okello.png",
+            "from": 1985,
+            "to": 1985,
+            "reason": "resigned",
+            "born": 1929,
+            "party": "Uganda National Liberation Front(Military)",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Bazilio Olara-Okello was a Ugandan military officer and one of the commanders of the Uganda National Liberation Army (UNLA) that together with the Tanzanian army overthrew Idi Amin in 1979. In 1985, he was briefly the chairman of the ruling Military Council and de facto head of state of Uganda, and later, lieutenant-general and chief of the armed forces.",
+                    "moreinfo": "During the civil war in Uganda between the UNLA (which was now the national army) and Yoweri Museveni's National Resistance Army, president Milton Obote alienated much of the Acholi-dominated officer corps, including Olara-Okello and General Tito Okello, by appointing his fellow ethnic Lango, Brigadier Smith Opon Acak, as army Chief of Staff. On 27 July 1985, an army brigade of the UNLA commanded by Olara-Okello, and composed mostly of Acholi troops, staged a coup d'état against Milton Obote's government and seized power. The National Assembly was dissolved and a Military Council was established. Between 27 and 29 July 1985, Olara-Okello was Chairman of the Military Council, and de facto head of state. On 29 July, General Tito Okello replaced Olara-Okello as Chairman of the Military Council, and Olara-Okello was promoted from the rank of Brigadier to that of Lieutenant General, and named chief of the armed forces. He commanded the army until Yoweri Museveni's National Resistance Army seized power on 26 January 1986. Olara-Okello fled to exile in Sudan, where he lived until he died in Omdurman Hospital in Khartoum on 9 January 1990."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "10",
+            "name": "General Tito Okello",
+            "imgsrc": "Tito-Okello.png",
+            "from": 1985,
+            "to": 1986,
+            "reason": "deposed",
+            "born": 1914,
+            "party": "Uganda National Liberation Front(Military)",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "Tito Lutwa Okello was a Ugandan military officer and politician. He was the eighth president of Uganda from 29 July 1985 until 26 January 1986. Tito Okello was born into an ethnic Acholi family in circa 1914 in Nam Okora, Kitgum District. As follower of President Milton Obote, Okello went into exile following the 1971 coup d'état that resulted in Idi Amin becoming Uganda's new ruler. In 1972, rebels invaded Uganda to restore Obote. Okello was one of the leaders of an insurgent group which targeted Masaka. The invasion was defeated by loyalist Uganda Army troops. Okello took part in the Uganda–Tanzania War. He was one of the commanders in the coalition between the Tanzania People's Defence Force and the Uganda National Liberation Army (UNLA) that removed Amin from power in 1979. In 1980, Obote was restored to presidency. Okello was selected to be the Commander of the UNLA from 1980 to 1985.",
+                    "moreinfo": "In July 1985, together with Bazilio Olara-Okello, Tito Lutwa Okello staged the coup d'état that toppled President Obote. He ruled as president for six months until he had to transfer power to the National Resistance Army (NRA) operating under the leadership of the current president, Yoweri Museveni. He went into exile in Kenya after his tenure was forcefully terminated by Museveni. Okello remained in exile until 1993, when he was granted amnesty by President Museveni and returned to Kampala. He died three years later, of an undisclosed illness, on 3 June 1996."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        },
+        {
+            "no": "11",
+            "name": "Yoweri Museveni",
+            "imgsrc": "Yoweri-Museveni.png",
+            "from": 1986,
+            "to": "date",
+            "reason": "",
+            "born": 1944,
+            "party": "National Resistance Movement",
+            "diedInOffice": false,
+            "extraInformation": [
+                {
+                    "bio": "General Yoweri Kaguta Museveni (born 15 September 1944) is a Ugandan politician and retired senior military officer who is the ninth and current President of Uganda since 1986. Museveni was involved in rebellions that toppled Ugandan leaders Idi Amin (1971–79) and Milton Obote (1980–85) before he captured power in 1986. In the mid-to-late 1990s, Museveni was celebrated by the West as part of a new generation of African leaders. Museveni's presidency has been marred by involvement in the Congo wars, the Rwandan Civil War and other Great Lakes region conflicts; the rebellion in Northern Uganda by the Lord's Resistance Army, which caused a humanitarian emergency; and the suppression of political opposition and constitutional amendments, scrapping presidential term limits in 2005 and the presidential age limit in 2017.",
+                    "moreinfo": "On 16 January 2021, the electoral commission of Uganda announced that Museveni had won re-election for a sixth term with 58.6% of the vote, despite allegations of electoral fraud, violent suppression of the opposition and human rights abuses."
+                }
+            ],
+            "contributors": [
+                {
+                    "no": "1",
+                    "name": "tracycod3r",
+                    "github_url": "https://github.com/tracycod3r",
+                    "extra_url": "https://tracy.hashnode.dev/"
+                }
+            ]
+        }
+    ]
+}
